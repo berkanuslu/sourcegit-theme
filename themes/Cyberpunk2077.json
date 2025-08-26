@@ -20,7 +20,7 @@
     "Diff.EmptyBG": "#cabf03",
     "Diff.AddedBG": "#3B4D61",
     "Diff.DeletedBG": "#920539",
-    "Diff.AddedHighlight": "#08a6cb",
+    "Diff.AddedHighlight": "#00effe",
     "Diff.DeletedHighlight": "#f5405f",
     "SystemAccentColor": "#32d8f2",
     "Link": "#00effe"
