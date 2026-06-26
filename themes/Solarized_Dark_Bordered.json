@@ -5,6 +5,7 @@
     "TitleBar": "#073642",
     "ToolBar": "#002b36",
     "Popup": "#073642",
+    "PopupBorder": "#3a5a64",
     "Contents": "#073642",
     "HistoryBG": "#01303c",
     "Badge": "#268bd2",

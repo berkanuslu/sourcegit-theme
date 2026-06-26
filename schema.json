@@ -28,7 +28,11 @@
                 },
                 "Popup": {
                     "$ref": "#/definitions/color",
-                    "description": "Popup panel background color"
+                    "description": "Popup/ContextMenu panel background color"
+                },
+                "PopupBorder": {
+                    "$ref": "#/definitions/color",
+                    "description": "Popup/ContextMenu panel border color"
                 },
                 "Contents": {
                     "$ref": "#/definitions/color",
