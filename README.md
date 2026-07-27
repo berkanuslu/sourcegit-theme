@@ -72,6 +72,9 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 ![Dracula](screenshots/Dracula.png)
 
+[Eldritch Abyss](./themes/Eldritch_Abyss.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Abyss palette](https://github.com/eldritch-theme/eldritch).
+
+![Eldritch Abyss](screenshots/Eldritch_Abyss.webp)
 
 [Eldritch Cthulhu](./themes/Eldritch_Cthulhu.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Cthulhu palette](https://github.com/eldritch-theme/eldritch).
 
