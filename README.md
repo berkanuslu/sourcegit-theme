@@ -71,6 +71,11 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Dracula](./themes/Dracula.json) based on [Dracula Theme](https://draculatheme.com/).
 
 ![Dracula](screenshots/Dracula.png)
+
+[Eldritch Dusk](./themes/Eldritch_Dusk.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Dusk palette](https://github.com/eldritch-theme/eldritch).
+
+![Eldritch Dusk](screenshots/Eldritch_Dusk.webp)
+
 [Catpuccin Mocha](./themes/Catpuccin_Mocha.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Mocha palette](https://github.com/catppuccin/catppuccin).
 
 ![Catpuccin Mocha](screenshots/CatpuccinMocha.png)
